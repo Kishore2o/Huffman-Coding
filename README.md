@@ -82,9 +82,8 @@ for (char, frequency) in freq:
 
 ```
 ## Output:
-
 ### Print the characters and its huffmancode
-![OUTPUT](./images/rec 12.png)
+![OUTPUT](./images/rec.png)
 
 
 ## Result
